@@ -19,7 +19,7 @@
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/teketselbeyene" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:beyeneteketsel@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:teketselbeyene@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
