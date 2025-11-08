@@ -1,96 +1,76 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 <h1 align="center">Hi 👋, I'm Teketsel Beyene</h1>
-<h3 align="center">🚀 Building reliable systems, one commit at a time</h3>
-<h4 align="center">Full-Stack Java | Spring Boot | Cloud & DevOps Engineer</h4>
+<h3 align="center">Full-Stack Java Developer | Microservices | AWS | DevOps</h3>
+<h4 align="center">"Building scalable, secure, and cloud-native systems with Java, Spring Boot, and AWS."</h4>
 
-<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
-
----
-
-### 💡 About Me  
-- 💻 Building **microservices in Java/Spring Boot 3.x**  
-- ☁️ Deploying to **AWS (ECS, EKS, Lambda, CloudFront, RDS)**  
-- 🧠 Experienced with **Docker, Jenkins, Kafka, Redis, and CI/CD automation**  
-- 🪄 Architecting **event-driven systems and payment/fraud pipelines**  
-- ⚡ Loves clean code, system design, and scaling ideas into products  
+<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/teketselbeyene" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:beyeneteketsel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/teke1566"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### 💡 About Me
+I’m a **Full-Stack Java Developer** with over **6 years of experience** designing, developing, and deploying **cloud-native microservices** and enterprise applications.  
+I specialize in **Spring Boot, AWS Cloud, CI/CD automation, and front-end integration** using React.
+
+My career has spanned **FinTech, AI, and enterprise security systems**, and I’ve led initiatives that improved system performance, automated pipelines, and reduced error rates by up to 30%.
+
+#### 🧠 Core Strengths:
+- 🏗️ **Microservices Architecture** – Spring Cloud, Kafka, Docker, Kubernetes  
+- ☁️ **AWS Cloud** – ECS, EKS, Lambda, RDS, CloudFront  
+- ⚙️ **CI/CD & DevOps** – Jenkins, GitLab, Maven, Docker, Terraform  
+- 🔒 **Secure, Scalable REST APIs** – OAuth2, JWT, Spring Security  
+- 💬 **Agile Collaboration** – Scrum, Test-Driven Development, code reviews  
+- 🤖 **AI Model Training & Evaluation** – Worked with Outlier to improve LLM code-generation  
 
 ---
 
-### ⚙️ Languages, Tools & Frameworks  
-
-#### 🧩 Backend & Cloud  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 🎨 Frontend & UI  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### 🛠️ Dev Tools  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🧰 Tech Stack  
+**Languages:** Java, Python, C++, JavaScript, SQL  
+**Frameworks:** Spring Boot, Spring Cloud, Hibernate, React, Node.js  
+**Tools:** Jenkins, Docker, Kubernetes, Maven, Git, Postman, IntelliJ, VSCode  
+**Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB  
+**Cloud:** AWS (EC2, S3, RDS, CloudWatch, ECS, Lambda)  
+**Methodologies:** Agile, TDD, CI/CD, Microservices  
 
 ---
 
-### 🧠 Featured Projects  
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🏦 **Credit Card Management System** | Event-driven microservices for transaction authorization, fraud detection & reporting | Spring Boot, Kafka, Redis, ECS |
-| 🛒 **eShop Platform** | Full-stack e-commerce with microservices architecture & CI/CD pipeline | Spring Cloud, React, Jenkins, Docker |
-| 🎮 **Ye Lijoch Storytime** | Flutter app for children’s storytelling & puzzle games (Amharic & English) | Flutter, Firebase, Dart |
-| 🤖 **Fortune-Bot** | Fortune 500 job alert system via Telegram & LinkedIn | Node.js, Supabase, Puppeteer |
+### 🧩 Featured Work  
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🧠 **AI Coding Quality System (Outlier)** | Trained and evaluated LLMs for code generation; optimized Java/Python problem-solving accuracy through systematic feedback and test case design. | Java, Python, AI Model Evaluation, Agile |
+| 🏦 **Credit Card Management System** | Designed a distributed system for transaction authorization, fraud detection, and reporting. Integrated Kafka for event streaming and Redis for caching. | Spring Boot, Kafka, Redis, Docker, ECS |
+| 🛒 **eShop Microservices Platform** | Multi-module architecture with React front-end and Spring Cloud microservices; Jenkins CI/CD pipeline automating build & deploy across environments. | React, Spring Cloud, Jenkins, AWS |
+| 🧩 **Ye Lijoch Storytime** | Flutter-based storytelling & puzzle game app with bilingual support (Amharic/English). | Flutter, Firebase, Dart |
+| 🔐 **Enterprise Billing System (INSA)** | Built scalable billing platform reducing errors by 30%; deployed 50+ Spring microservices on AWS; improved data throughput with Kafka integration. | Spring Boot, AWS, Kafka, PostgreSQL |
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 Achievements
+- ⚡ **Migrated complex data pipelines** to AWS Cloud improving reliability & scalability.  
+- 🔁 **Implemented CI/CD pipelines** using Jenkins and Docker, accelerating deployments by 40%.  
+- 🧩 **Reduced billing errors by 30%** and improved test efficiency by 20% using TDD + automation.  
+- 💡 **Collaborated with AI teams** to enhance generative code model accuracy for large datasets.  
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teke1566&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teke1566&show_icons=true&theme=tokyonight&count_private=true" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teke1566&theme=tokyonight" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teke1566&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teke1566&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teke1566&theme=tokyonight" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teke1566&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+### 🎓 Education
+**Master of Science, Computer Science — Maharishi International University**  
+_Focus: Software Architecture, Enterprise Systems, Cloud Computing_  
+
+**Bachelor of Science, Computer Science — Arba Minch University**  
+_Focus: Java, Data Structures, Web Design, Algorithms_  
 
 ---
 
-### 🎓 Certifications  
-- 🟢 **AWS Certified Solutions Architect – Associate**  
-- 🟢 **Spring Boot Microservices Developer**  
-- 🟢 **Agile + CI/CD Practitioner**  
-
----
-
-⭐️ *“Code is poetry. Systems are symphonies.”* — **Teketsel Beyene**
+⭐️ *“Clean code, clear systems, continuous delivery.”* — **Teketsel Beyene**
