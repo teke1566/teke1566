@@ -12,7 +12,6 @@
 - ☁️ Deploying on **AWS (ECS, EKS, S3, CloudFront, RDS, Lambda)**  
 - 🧠 Skilled in **Docker, Jenkins CI/CD, Kafka, Redis, and React**  
 - 💬 Ask me about **Spring Cloud, API Gateway, AWS DevOps, React dashboards, and scalable system design**  
-- 🔭 Currently improving **Credit Card Management System** (ECS vs EKS architecture) and **eShop Microservices Platform**  
 - ⚡ Fun fact: I break monoliths for fun and containerize everything that moves 😎  
 
 ---
