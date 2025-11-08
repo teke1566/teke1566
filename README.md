@@ -12,7 +12,6 @@
 - ☁️ Deploying on **AWS (ECS, EKS, S3, CloudFront, RDS, Lambda)**  
 - 🧠 Skilled in **Docker, Jenkins CI/CD, Kafka, Redis, and React**  
 - 💬 Ask me about **Spring Cloud, API Gateway, AWS DevOps, React dashboards, and scalable system design**  
-- 🔭 Currently improving **Credit Card Management System** (ECS vs EKS architecture) and **eShop Microservices Platform**  
 - ⚡ Fun fact: I break monoliths for fun and containerize everything that moves 😎  
 
 ---
@@ -20,7 +19,7 @@
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/teketselbeyene" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:beyeneteketsel@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:teketselbeyene@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
@@ -77,7 +76,6 @@
 ---
 
 ### 🧩 Featured Projects  
-- 🏦 **Credit Card Account Management System** — Spring Boot microservices, Kafka events, Redis caching, ECS vs EKS deployment on AWS  
 - 🛒 **eShop Platform** — React + Spring Cloud microservices with API Gateway, Service Registry, and Docker Compose CI/CD  
 - 🧩 **Ye Lijoch Storytime App** — Flutter-based children’s storytelling & puzzle platform (Amharic + English support)  
 - 🤖 **Fortune-Bot** — Telegram + LinkedIn scraper for Fortune 500 job alerts (Node.js + Supabase)  
